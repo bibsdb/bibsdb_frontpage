@@ -214,7 +214,7 @@ function bibsdb_frontpage_default_page_manager_handlers() {
     $pane->panel = 'secondary';
     $pane->type = 'serendipity_ting_object';
     $pane->subtype = 'serendipity_ting_object';
-    $pane->shown = TRUE;
+    $pane->shown = FALSE;
     $pane->access = array();
     $pane->configuration = array(
       'view_mode' => 'teaser',

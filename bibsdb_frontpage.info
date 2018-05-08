@@ -9,5 +9,4 @@ features[ctools][] = pm_existing_pages:pm_existing_pages:1
 features[features_api][] = api:2
 features[page_manager_existing_pages][] = bibsdb_frontpage
 features[page_manager_handlers][] = pm_existing_pages_bibsdb_frontpage__bibsdb-frontpage
-mtime = 1522912308
 project path = sites/default/modules
